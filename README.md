@@ -25,3 +25,7 @@
 
 `main` の保護ルールは [.github/rulesets/protect-main.json](.github/rulesets/protect-main.json) に置いています。
 Settings → Rules → Rulesets → New ruleset → Import a ruleset で読み込めます。
+
+## 仕様
+
+- [4rtofl.org のメール運用](docs/email.md)
